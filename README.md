@@ -34,7 +34,7 @@ Thank you for visiting my GitHub profile. Feel free to explore my projects and d
 
 ### Data Visulization:
 * [Canada Immigration](https://github.com/vignesh-kannaa/ml-data_visualisation) : Using Matplotlib, the basic visualization of Canada's immigration data provides a concise and informative graphical representation, enabling a clear understanding of the immigration trends over time.
-   
+* [Financial Consumer Complaints](https://github.com/vignesh-kannaa/da-Financial_Consumer_Complaints) : Analyze financial consumer complaints through data analysis using Power BI, uncovering patterns and trends to gain insights into common issues and improve customer satisfaction in the financial industry
 ---
 ### Certificates 
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/9SBCJTJ7GS7D)
